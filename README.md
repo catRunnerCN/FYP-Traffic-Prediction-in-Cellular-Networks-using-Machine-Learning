@@ -1,2 +1,3 @@
 # FYP-Traffic-Prediction-in-Cellular-Networks-using-Machine-Learning
  Cellular traffic prediction, deep learning, CNN-LSTM, Boosting, Kolmogorov-Arnold Network (KAN)
+This project aims to design and implement a cellular network traffic prediction model based on deep learning. It uses CNN-LSTM hybrid structure to extract spatio-temporal features, and introduces Boosting  technology to improve prediction accuracy. The Kolmogorov-Arnold network (KAN) will also be attempted to demonstrate the potential of the new neural network architecture. The goal is to achieve better prediction results than traditional methods on public data sets, and have certain generalization ability.
